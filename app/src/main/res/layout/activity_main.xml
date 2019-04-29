@@ -105,6 +105,18 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
+        <Button
+            android:id="@+id/guardianbutton4"
+            android:layout_width="387dp"
+            android:layout_height="52dp"
+            android:background="@color/colorPrimary"
+            android:onClick="onclickguardian"
+            android:text="GUARDIAN OF THE GALAXY"
+            android:textAllCaps="true"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
         <TextView
             android:id="@+id/textView26"
             android:layout_width="match_parent"

@@ -14,7 +14,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".BinLocation"></activity>
+        <activity android:name=".guardian_of_the_galaxy"></activity>
+        <activity android:name=".BinLocation" />
         <activity android:name=".studentRegisterPage" />
         <activity android:name=".studentLoginPage" />
         <activity android:name=".stakerholder_login_page" />

@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(int1);
     }
 
+    public void onclickguardian(View view){
+        Intent int1=new Intent(this, guardian_of_the_galaxy.class);
+        startActivity(int1);
+    }
 
 
 
